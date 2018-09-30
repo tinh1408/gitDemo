@@ -1,6 +1,5 @@
-package kieuDuLieu;
+package KieuDuLieu;
 
-import javax.security.sasl.SaslClient;
 import java.util.Scanner;
 
 public class DiemTB {

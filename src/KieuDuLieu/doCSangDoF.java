@@ -1,4 +1,4 @@
-package kieuDuLieu;
+package KieuDuLieu;
 
 import java.util.Scanner;
 
