@@ -8,7 +8,7 @@ public class TinhTuoi {
         int year,age;
         System.out.println("nhap nam sinh:");
        year = scanner.nextInt();
-        age = 2018 - year;
+        age = 2018 - year; // nếu sang năm 2019 thì chương trình của em chạy không đúng nữa :D. Sửa lại như thế nào hè ?
         System.out.println("tuoi :"+age);
 
     }
